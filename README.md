@@ -9,6 +9,3 @@
   <img src="https://img.shields.io/badge/-%20-2496ED?style=flat-square&logo=docker&logoColor=white&height=30" />&nbsp;
   <img src="https://img.shields.io/badge/-%20-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&height=30" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
