@@ -3,11 +3,7 @@
 幅広いレイヤーの技術を柔軟に扱い、課題に対して最適なアプローチを選択する多目的エンジニアです。
 低レイヤーからモダンなシステム言語、バックエンド、フロント、インフラ構築、そしてハードウェアの基礎までクロスオーバーにカバーします。
 
-- 🎓 **Focus:** Intelligence Systems & Cyber Security
-- 📜 **Certifications:** 
-  - Fundamental Information Technology Engineer (FE) / 基本情報技術者
-  - Second-class Electrician / 第二種電気工事士
-- ⚡ **Core Nuance:** 自動化ツールの開発や、開発環境・PCハードウェアの最適化に拘りがあります。
+動化ツールの開発や、開発環境・PCハードウェアの最適化に拘りがあります。
 
 ---
 
