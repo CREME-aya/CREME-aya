@@ -1,11 +1,10 @@
-### 🛠️ Tech Stack
+## 👋 Hi there, I'm a Versatile Engineer.
 
-<p>
-  <img src="https://img.shields.io/badge/-%20-ED8B00?style=flat-square&logo=openjdk&logoColor=white&height=30" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-3776AB?style=flat-square&logo=python&logoColor=white&height=30" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&height=30" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-000000?style=flat-square&logo=rust&logoColor=white&height=30" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-F05032?style=flat-square&logo=git&logoColor=white&height=30" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-2496ED?style=flat-square&logo=docker&logoColor=white&height=30" />&nbsp;
-  <img src="https://img.shields.io/badge/-%20-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&height=30" />
-</p>
+幅広いレイヤーの技術を扱い、課題に対して最適なアプローチを選択する多目的エンジニアです。
+低レイヤーの知見から各種言語でのツール開発、インフラ構築まで柔軟に対応します。
+
+- 🎓 **Focus:** Intelligence Systems / Computer Science
+- 📜 **Certifications:** 
+  - Fundamental Information Technology Engineer (FE) / 基本情報技術者
+  - Second-class Electrician / 第二種電気工事士
+- ⚡ **Fun Fact:** 自動化ツールの開発や、環境の最適化（OS/エディタ/ハードウェア）に拘りがあります。
